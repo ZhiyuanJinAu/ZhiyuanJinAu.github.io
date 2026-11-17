@@ -33,13 +33,14 @@ latest_posts:
   }
 </style>
 
-I am **Zhiyuan Jin**,  a mathematics undergraduate at the University of Wisconsin–Madison. My research interests lie in control, optimization, and machine learning for autonomous systems and robotics.
+I am **Zhiyuan Jin**,  a mathematics undergraduate at the University of Wisconsin–Madison. My research interests lie in control, optimization, game theory, and machine learning for autonomous systems and robotics.
 
-I have worked with Jingqi Li and David Fridovich-Keil at UT Austin on inverse dynamic games, and with Jeremy Coulson at UW–Madison on data-driven control.
+I am currently advised by Prof. David Fridovich-Keil at UT Austin, with Jingqi Li as my research mentor, working on inverse dynamic games, and by Prof. Jeremy Coulson at UW–Madison, working on data-driven control.
 
 ### Research interests
 
 - **Multi-agent interaction under information asymmetry:** inferring objectives from the behavior of decision-makers and understanding how interactions shape what can be learned.
+- **Game theory and dynamic games:** modeling strategic interaction among multiple decision-makers, and planning and control in game-theoretic settings.
 - **Data-driven predictive control:** learning dynamics from trajectory data and using them to plan and control motion.
 
 See my [research paper]({{ '/publications/' | relative_url }}).
